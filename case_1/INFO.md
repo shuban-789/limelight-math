@@ -9,7 +9,7 @@
 ├── simple_sol_1
 │   ├── simplesol1.py
 │   └── visual1.py
-└── simple_sol_2.py
+└── simple_sol_2
     ├── simplesol2.py
     └── visual2.py
 ```
