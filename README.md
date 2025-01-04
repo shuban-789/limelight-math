@@ -1,3 +1,3 @@
 # Limelight Math
 
-Limelight math repository for FTC
+Python code for drafting and testing math calculations for Limelight vision processing
